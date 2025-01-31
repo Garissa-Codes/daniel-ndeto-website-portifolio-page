@@ -4,7 +4,7 @@ This is the portfolio website for Daniel Ndet'o showcasing projects, skills, and
 
 ## Live Demo
 
-Check out the live demo here: [Live Demo URL](#)
+Check out the live page here: [https://github.com/Garissa-Codes/daniel-ndeto-website-portifolio-page/settings/pages](#)
 
 ## Table of Contents
 
