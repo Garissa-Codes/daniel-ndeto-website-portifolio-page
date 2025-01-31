@@ -18,7 +18,7 @@ Check out the live demo here: [Live Demo URL](#)
 - HTML
 - CSS
 - JavaScript
-- Any additional libraries, frameworks, or tools you used
+
 
 ## Installation
 
