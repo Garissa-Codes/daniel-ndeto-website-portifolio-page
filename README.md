@@ -4,7 +4,7 @@ This is the portfolio website for Daniel Ndet'o showcasing projects, skills, and
 
 ## Live Demo
 
-Check out the live page here: [](#)
+Check out the live page here: [https://daniel-ndeto.github.io/daniel-ndeto-website-portifolio-page/](#)
 
 ## Table of Contents
 
